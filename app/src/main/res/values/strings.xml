@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rock-Paper-Scissors</string>
+    <string name="zero">0</string>
+    <string name="you_win">YOU WIN!</string>
+    <string name="you_lose">YOU LOSE</string>
+    <string name="dead_heat">DEAD HEAT</string>
+    <string name="warning_toast">Chose rock, scissors or paper</string>
+</resources>
